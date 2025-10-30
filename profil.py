@@ -1,1 +1,1 @@
-print("ini profil")
+print("ini profil kita")
